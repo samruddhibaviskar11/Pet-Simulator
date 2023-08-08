@@ -2,5 +2,5 @@
 screen pet using tkinter
 
 ## Start application
-    $ screenpet.py
+    $ python screenpet.py
 
