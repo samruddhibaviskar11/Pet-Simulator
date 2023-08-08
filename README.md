@@ -1,5 +1,5 @@
 # Pet-Simulator
-screen pet using tkinter
+screen pet game using tkinter
 
 ## Start application
     $ python screenpet.py
